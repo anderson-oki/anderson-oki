@@ -2,10 +2,6 @@
 
 <img align="right" height="170" src="assets/images/header-right.webp"  />
 
-<img align="right" height="170" src="https://i.ibb.co/4dWf23T/header-right.webp"  />
-
-<img align="left" height="150" src="https://i.ibb.co/7t4MfFQ/header-left.webp"  />
-
 <h1 align="center">Anderson Oki</h1>
 
 <h3 align="center">Software Engineer</h3>
