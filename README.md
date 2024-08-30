@@ -1,12 +1,15 @@
 <img align="left" height="150" src="assets/images/header-left.webp"  />
 
-<img align="right" height="170" src="assets/images/header-right.webp"  />
+<img align="right" height="150" src="assets/images/header-right.webp"  />
 
-<h3 align="center">Anderson Oki</h3>
+<br clear="both">
 
-<h3 align="center">Software Engineer</h3>
+<div align="center">
+    <h2 align="center">Anderson Oki</h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&lines=Software+Engineer;Gamer;Cat+Lover;Bug+Creator;Anime+Maniac" alt="Typing SVG" />
+</div>
 
-<h5 align="center">Japan</h5>
+
 
 <br clear="both">
 
