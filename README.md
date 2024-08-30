@@ -21,7 +21,7 @@
 
 <h3 align="left">🧑🏻‍💻  𝔸𝕓𝕠𝕦𝕥 𝕄𝕖</h3>
 
-<p align="left">I started coding as a hobby in 2002 as a self-taught web developer. After 2 years of coding 7 days per week, 6 hours per day. In 2004 i decided to take a challenge to the next level, and took a job as freelancer web developer.<br><br>I have been managing and leading engineering teams for over a decade, but my passion is to deliver value by hands-on coding. What do i love about coding? Instant feedback on what i am building, see the result of what i am constructing as it goes.</p>
+<p align="left">I started coding as a hobby in 2002 as a self-taught web developer. In 2004 i decided to take a challenge to the next level, and joined as freelancer web developer via oDesk Platform.<br><br>I have been managing and leading engineering teams for over a decade, but my passion is to deliver value by hands-on coding. What do i love about coding? Instant feedback on what i am building, see the result of what i am constructing as it goes.</p>
 
 <h3 align="left">🌟 𝕍𝕒𝕝𝕦𝕖𝕤</h3>
 
