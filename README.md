@@ -2,7 +2,7 @@
 
 <img align="right" height="170" src="assets/images/header-right.webp"  />
 
-<h1 align="center">Anderson Oki</h1>
+<h3 align="center">Anderson Oki</h3>
 
 <h3 align="center">Software Engineer</h3>
 
@@ -112,18 +112,18 @@
 
 <h1 align="center">ℍ𝕠𝕓𝕓𝕚𝕖𝕤</h1>
 
-<img align="left" height="200" src="https://media1.tenor.com/m/NDNnVu-Xlu4AAAAC/anime-frieren.gif"  />
+<img align="left" height="200" src="assets/images/category-anime.gif"  />
 
-<h2 align="center">𝔸𝕟𝕚𝕞𝕖</h2>
+<h3 align="center">𝔸𝕟𝕚𝕞𝕖</h3>
 
 <p align="center">Watching Anime and getting immersed in the fantasy world refreshes me and puts me ready for more.</p>
 
 <br clear="both">
 <br clear="both">
 
-<img align="left" height="206" src="https://s5.ezgif.com/tmp/ezgif-5-b05701e83a.webp"  />
+<img align="left" height="210" src="assets/images/category-gaming.gif"  />
 
-<h2 align="center">𝔾𝕒𝕞𝕚𝕟𝕘</h2>
+<h3 align="center">𝔾𝕒𝕞𝕚𝕟𝕘</h3>
 
 <p align="center">Playing video games gives me adrenaline and boost my moral, gives me creativity and pump my emotions.</p>
 
